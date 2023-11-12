@@ -13,3 +13,8 @@ Whenever you are out of your home you can control your appliances or look for an
 You can allow and open the door or close the door when they leave.
 
 This project had been implemented in 2019 
+
+Skills Used:
+Java
+Python
+Raspberry PI
